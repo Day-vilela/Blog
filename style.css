@@ -2,7 +2,7 @@
 
 *{
 	margin: 0;
-	paddin: 0;
+	padding: 0;
 	box-sizing: border-box;
 
 }
@@ -13,7 +13,7 @@ html,body{
 
 .container{
 	max-width: 1280px;
-	marging: 0 auto;
+	margin: 0 auto;
 }
 
 .clear{ 
